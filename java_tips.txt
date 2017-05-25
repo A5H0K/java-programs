@@ -1,0 +1,3 @@
+Static and non static
+--------------------------
+A non-static method is dependent on the object. It is recognized by the program once the object is created. A static method or variable is created at the time a class is loaded. 
